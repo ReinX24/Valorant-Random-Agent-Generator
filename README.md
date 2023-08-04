@@ -6,7 +6,7 @@ Website that generates a random agent. Generates a random agent with any role or
 
 ### Screenshots
 
-![Screenshots folder](/screenshots)
+[Screenshots folder](/screenshots)
 
 ### Desktop
 ![home desktop screenshot](screenshots/homeAgentGenerator.png)
